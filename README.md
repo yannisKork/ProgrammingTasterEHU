@@ -1,7 +1,7 @@
 # ProgrammingTasterEHU
 The materials for an online taster session for prospective EHU students.
 
-The session is delivered on March 5th, 2021.
+The session is delivered on March 6th, 2021.
 
 Materials produced by Dr Rob Lyon, Senior Lecturer, in the Department of Computer Science at Edge Hill University (EHU)
 and is delivered by Prof Yannis Korkontzelos, Prof in Computer Science (Data Analytics).
